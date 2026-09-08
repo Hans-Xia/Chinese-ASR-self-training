@@ -2,6 +2,10 @@
 
 Mandarin automatic speech recognition using **WeNet** and **Whisper**, with external language-model decoding and pseudo-label-based self-training.
 
+[English](#english) | [中文](#中文)
+
+## English
+
 ## Overview
 
 This project explores semi-supervised speech recognition using additional pseudo-labeled speech data.
@@ -79,6 +83,9 @@ Whisper showed the largest improvement after pseudo-label-based self-training, p
 ## Project Context
 
 Research-oriented ASR project developed at **Budapest University of Technology and Economics**.
+
+
+## 中文
 
 # 基于 WeNet 与 Whisper 的中文语音识别自训练
 
