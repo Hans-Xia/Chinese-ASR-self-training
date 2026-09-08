@@ -164,20 +164,6 @@ Whisper 在加入基于伪标签的自训练后提升最明显，尤其是在跨
 - OpenFST
 - torchaudio
 
-## 仓库结构
-
-```text
-chinese-asr-self-training/
-├── configs/
-├── data/
-├── decoding/
-├── pseudo_labels/
-├── self_training/
-├── whisper/
-├── evaluation/
-└── README.md
-```
-
 ## 项目背景
 
 布达佩斯技术与经济大学（BME）开展的研究型语音识别课题项目。
